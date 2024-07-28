@@ -1,1 +1,2 @@
-shaneisrael/fireshare:latest
+cloudreve/cloudreve:latest
+p3terx/aria2-pro
