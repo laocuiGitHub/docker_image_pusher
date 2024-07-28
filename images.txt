@@ -1,1 +1,1 @@
-shaneisrael/fireshare:1.2.20
+shaneisrael/fireshare:latest
