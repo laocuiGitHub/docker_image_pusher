@@ -1,2 +1,2 @@
 registry.fit2cloud.com/halo/halo:2.17
-hslr/sun-panel:1.5
+hslr/sun-panel:1.5.1
