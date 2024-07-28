@@ -1,2 +1,3 @@
-registry.fit2cloud.com/halo/halo:2.17
+registry.fit2cloud.com/halo/halo:2.17.2
 hslr/sun-panel:1.5.1
+postgres:15.4
