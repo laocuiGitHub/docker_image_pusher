@@ -1,1 +1,4 @@
+registry.fit2cloud.com/halo/halo:2.17
+postgres:15.4
+hslr/sun-panel:latest
 neosmemo/memos:stable
