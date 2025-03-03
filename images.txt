@@ -1,1 +1,1 @@
-cppla/serverstatus:latest
+linuxserver/chromium:latest
